@@ -1,1 +1,1 @@
-LD_PRELOAD="lib/libGLEW.so lib/libsigil.so" ./belajar-libsigil
+LD_PRELOAD="lib/libGLEW.so lib/libsigil.so" ./debug
