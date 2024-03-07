@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709503732 source:/var/home/dreamyuki/Development/GameDev/learn-libsigil/main.cpp
+	<iostream>
+	<sl.h>
+
