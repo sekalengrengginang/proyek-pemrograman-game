@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/workspaces/proyek-pemrograman-game/pertemuan-2",
+            "binaryPath": "/workspaces/proyek-pemrograman-game/pertemuan-2/loop",
+            "binaryArgs": []
+        }
+    ]
+}
